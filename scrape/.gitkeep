@@ -1,0 +1,3 @@
+# This file ensures the scrape/ folder is tracked by Git
+# But actual scraped data (*.json) is ignored via .gitignore
+

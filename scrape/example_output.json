@@ -1,0 +1,53 @@
+[
+  {
+    "source_url": "https://reddit.com/r/SaaS/comments/example",
+    "platform": "reddit",
+    "commenter_name": "tech_enthusiast",
+    "comment_text": "I've been using this nutrition tracking app for 3 months now. The AI recommendations are surprisingly accurate!",
+    "date_posted": "1704067200.0",
+    "sentiment": "positive",
+    "likes": 42,
+    "replies": null
+  },
+  {
+    "source_url": "https://news.ycombinator.com/item?id=12345678",
+    "platform": "hackernews",
+    "commenter_name": "developer123",
+    "comment_text": "Show HN: Built a meal planning SaaS - We've integrated with nutrition APIs to provide personalized meal recommendations",
+    "date_posted": "2024-01-01T10:30:00Z",
+    "sentiment": "neutral",
+    "likes": 15,
+    "replies": null
+  },
+  {
+    "source_url": "https://github.com/example/nutrition-tracker/issues/42",
+    "platform": "github",
+    "commenter_name": "contributor_jane",
+    "comment_text": "Feature Request: Add macro tracking to the nutrition dashboard",
+    "date_posted": "2024-01-05T14:20:00Z",
+    "sentiment": "neutral",
+    "likes": 8,
+    "replies": null
+  },
+  {
+    "source_url": "https://play.google.com/store/apps/details?id=com.example.nutrition",
+    "platform": "playstore",
+    "commenter_name": "Play Store",
+    "comment_text": "App: MyFitnessPal - Nutrition Tracker",
+    "date_posted": null,
+    "sentiment": "positive",
+    "likes": null,
+    "replies": null
+  },
+  {
+    "source_url": "https://stackoverflow.com/questions/12345",
+    "platform": "stackoverflow",
+    "commenter_name": "stack_user",
+    "comment_text": "How to implement nutrition API in React app? - I'm building a nutrition tracking app and need to integrate with a nutrition database API",
+    "date_posted": "1704153600",
+    "sentiment": "neutral",
+    "likes": 23,
+    "replies": null
+  }
+]
+
